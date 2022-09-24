@@ -1,0 +1,6 @@
+package mcheli.wrapper;
+
+public class ChatMessageComponent
+{
+  public ChatMessageComponent() {}
+}
